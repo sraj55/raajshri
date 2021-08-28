@@ -150,3 +150,16 @@ section{
         padding-top: 5rem;
       }
   }
+  .contact-icon{
+    font-size:100px;
+  }
+
+  /*------------------------------------
+     FOOTER STYLE
+  -------------------------------------*/
+  .footer{
+    background-color: rgb(238, 238, 238);
+    padding: 20px;
+    text-align: center;
+  }
+  
